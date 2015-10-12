@@ -66,16 +66,27 @@ public class DatabaseConnection {
 	}
 
 	/*
-	 * Private Method used to send a SQL Query
+	 * Method used to send a SQL Query
 	 */
-	private ResultSet query(String query) throws SQLException {
+	protected ResultSet rsQuery(String query) throws SQLException {
 		query = sanitizeQuery(query);
 		Statement stmt = conn.createStatement();
 		System.out.println("Query: " + query);
 		ResultSet rs = stmt.executeQuery(query);
 		return rs;
 	}
-
+	
+	/*
+	 * Method used to send a SQL Query
+	 */
+	protected boolean query(String query) throws SQLException {
+		query = sanitizeQuery(query);
+		Statement stmt = conn.createStatement();
+		System.out.println("Query: " + query);
+		ResultSet rs = stmt.executeQuery(query);
+		return rs.first();
+	}
+	
 	/*
 	 * Private Method used to sanitize the input of a SQL Query
 	 */
@@ -83,18 +94,18 @@ public class DatabaseConnection {
 		return query;
 	}
 	
-	public static void main(String[] args) {
-		try {
-			DatabaseConnection db = DatabaseConnection.getInstance();
-			
-			ResultSet rs = db.query("SELECT * FROM user");
-			while (rs.next()) {
-				System.out.println(rs.getString("user_name"));
-				System.out.println(rs.getString("user_pass"));
-			}
-		} catch (SQLException | InstantiationException | IllegalAccessException | ClassNotFoundException e) {
-			e.printStackTrace();
-		}
-	}
+//	public static void main(String[] args) {
+//		try {
+//			DatabaseConnection db = DatabaseConnection.getInstance();
+//			String username = "Michael";
+//			String password = "Password!";
+//			ResultSet rs = db.query("SELECT user_name, user_pass FROM user WHERE user_name='"+username+"' AND user_pass='" +password+"';");
+//			while (rs.next()) {
+//				System.out.println(rs.first());
+//			}
+//		} catch (SQLException | InstantiationException | IllegalAccessException | ClassNotFoundException e) {
+//			e.printStackTrace();
+//		}
+//	}
 
 }

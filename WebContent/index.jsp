@@ -77,7 +77,7 @@
             <div class="col-lg-6 col-lg-offset-3">
 
                 <!--    Login Form    -->
-                <form id="loginForm" class="form-signin" action="/DiamondDogs/login-servlet" method="POST">
+                <form id="loginForm" class="form-signin" action="/DiamondDogs/login" method="POST">
                     <h2 class="form-signin-heading">Please sign in</h2>
                     <label for="inputUsername" class="sr-only">Username</label>
                     <input type="text" id="inputUsername" name="inputUsername" class="form-control"

@@ -30,20 +30,12 @@
 		<url-pattern>/account</url-pattern>
 	</servlet-mapping>
 	<servlet>
-		<servlet-name>LoginJSP</servlet-name>
-		<jsp-file>/login.jsp</jsp-file>
-	</servlet>
-	<servlet-mapping>
-		<servlet-name>LoginJSP</servlet-name>
-		<url-pattern>/login-jsp</url-pattern>
-	</servlet-mapping>
-	<servlet>
 		<servlet-name>LoginServlet</servlet-name>
 		<servlet-class>diamonddogs.LoginServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>LoginServlet</servlet-name>
-		<url-pattern>/login-servlet</url-pattern>
+		<url-pattern>/login</url-pattern>
 	</servlet-mapping>
 	<servlet>
 		<servlet-name>RegisterServlet</servlet-name>
