@@ -22,7 +22,7 @@ public class AccountController {
 	 * Private Constructor
 	 */
 	private AccountController() {
-
+		DatabaseConnection.getInstance();
 	}
 
 	public static AccountController getInstance() {
@@ -32,7 +32,6 @@ public class AccountController {
 	}
 
 	public void sync(HttpServletRequest request, HttpServletResponse response) {
-		DatabaseConnection.getInstance();
 //		this.request = request;
 		this.response = response;
 		cookies = new HashMap<String, String>();
