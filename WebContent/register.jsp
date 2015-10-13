@@ -1,8 +1,3 @@
-<%--
-  User: Michael
-  Date: 10/11/2015
-  Time: 10:19 PM
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">

@@ -1,19 +1,10 @@
-<%--
-  User: Michael
-  Date: 10/11/2015
-  Time: 10:19 PM
---%>
+<%@page import="diamonddogs.AccountController"%>
 <%@ page contentType="text/html;charset=UTF-8" language="java"%>
 <%
-	Cookie[] cookies = request.getCookies();
-	if (cookies.length < 2) {
-		response.sendRedirect("/DiamondDogs/");
-	} else {
-		if (cookies[1].getValue() == null)
-			response.sendRedirect("/DiamondDogs/");
-	}
+	AccountController ac = AccountController.getInstance();
+	ac.sync(request, response);
+	ac.check_auth();
 %>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -80,11 +71,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<h1>
-						Hello, <span id="user-name">
-						<% if (cookies.length > 1) { %>
-						<%= cookies[1].getValue() %>
-						<% } %>
-						</span>!
+						Hello, <span id="user-name"><%= ac.display_username() %></span>!
 					</h1>
 				</div>
 			</div>
@@ -108,19 +95,19 @@
 								<!-- Display Email Address -->
 								<tr>
 									<td><p>Email Address:</p></td>
-									<td id="user-email"><p>user@email.com</p></td>
+									<td id="user-email"><p><%= ac.display_email() %></p></td>
 								</tr>
 
 								<!-- Display Account Number -->
 								<tr>
 									<td><p>Account Number:</p></td>
-									<td id="user-account"><p>123-456-789</p></td>
+									<td id="user-account"><p><%= ac.display_account() %></p></td>
 								</tr>
 
 								<!-- Display Balance -->
 								<tr>
 									<td><p>Balance:</p></td>
-									<td id="user-balance">$1000</td>
+									<td id="user-balance"><%= ac.display_balance() %></td>
 								</tr>
 							</tbody>
 						</table>

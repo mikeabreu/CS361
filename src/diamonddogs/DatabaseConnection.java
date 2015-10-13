@@ -2,9 +2,10 @@ package diamonddogs;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
+import java.util.HashMap;
 
 /*
  * Database Connection Object uses JDBC
@@ -31,9 +32,14 @@ public class DatabaseConnection {
 	/*
 	 * Method used to retrieve DatabaseConnection Object
 	 */
-	public static DatabaseConnection getInstance() throws SQLException, InstantiationException, IllegalAccessException, ClassNotFoundException {
-		if (dbc == null)
-			dbc = new DatabaseConnection();
+	public static DatabaseConnection getInstance() {
+		if (dbc == null) {
+			try {
+				dbc = new DatabaseConnection();
+			} catch (InstantiationException | IllegalAccessException | ClassNotFoundException | SQLException e) {
+				System.err.println("There was an error connecting to the Database.");
+			}
+		}
 		return dbc;
 	}
 
@@ -64,34 +70,43 @@ public class DatabaseConnection {
 		
 		return dbCreds;
 	}
-
-	/*
-	 * Method used to send a SQL Query
-	 */
-	protected ResultSet rsQuery(String query) throws SQLException {
-		query = sanitizeQuery(query);
-		Statement stmt = conn.createStatement();
-		System.out.println("Query: " + query);
-		ResultSet rs = stmt.executeQuery(query);
-		return rs;
-	}
 	
 	/*
 	 * Method used to send a SQL Query
 	 */
-	protected boolean query(String query) throws SQLException {
-		query = sanitizeQuery(query);
-		Statement stmt = conn.createStatement();
-		System.out.println("Query: " + query);
-		ResultSet rs = stmt.executeQuery(query);
-		return rs.first();
+	protected static Object[] authenticate(String username, String password) throws SQLException {
+		PreparedStatement stmt = conn.prepareStatement("SELECT user_id, user_name, user_pass FROM user WHERE user_name = ? AND user_pass = ?");
+		stmt.setString(1, username);
+		stmt.setString(2, password);
+		ResultSet rs = stmt.executeQuery();
+		Object[] result = new Object[2];
+		if (rs.first()) {
+			result[0] = (boolean) rs.first();
+			result[1] = (int) rs.getInt("user_id");
+		} else {
+			result[0] = false;
+			result[1] = -1;
+		}
+		return result;
 	}
 	
-	/*
-	 * Private Method used to sanitize the input of a SQL Query
-	 */
-	private String sanitizeQuery(String query) {
-		return query;
+	protected static HashMap<String, String> getUser(int user_id) {
+		HashMap<String, String> user = new HashMap<String, String>();
+		try {
+			PreparedStatement stmt = conn.prepareStatement("SELECT * FROM user WHERE user_id = ? ");
+			stmt.setInt(1, user_id);
+			ResultSet rs = stmt.executeQuery();
+			while (rs.next()) {
+				user.put("id", String.valueOf(rs.getInt("user_id")));
+				user.put("name", rs.getString("user_name"));
+				user.put("email", rs.getString("user_email"));
+				user.put("account", String.valueOf(rs.getInt("user_account")));
+				user.put("balance", String.valueOf(rs.getInt("user_balance")));
+			}
+		} catch (SQLException e) {
+			System.err.println("There was an error while retrieving the user information.");
+		}
+		return user;
 	}
 	
 //	public static void main(String[] args) {
