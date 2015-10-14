@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class AccountController {
 	protected static AccountController ac;
-//	private HttpServletRequest request;
+	// private HttpServletRequest request;
 	private HttpServletResponse response;
 	private Cookie[] raw_cookies;
 	private HashMap<String, String> cookies;
@@ -32,7 +32,7 @@ public class AccountController {
 	}
 
 	public void sync(HttpServletRequest request, HttpServletResponse response) {
-//		this.request = request;
+		// this.request = request;
 		this.response = response;
 		cookies = new HashMap<String, String>();
 		user = new HashMap<String, String>();

@@ -86,7 +86,6 @@ public class DatabaseConnection {
 			stmt.setString(1, username);
 			stmt.setString(2, password);
 			ResultSet rs = stmt.executeQuery();
-			
 
 			if (rs.first()) {
 				result[0] = (boolean) rs.first();
