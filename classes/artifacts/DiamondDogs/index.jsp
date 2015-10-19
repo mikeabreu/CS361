@@ -26,6 +26,8 @@
     <script src="assets/lib/bootstrap-3.3.5-dist/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="assets/lib/js-cookie-master/src/js.cookie.js" type="text/javascript"></script>
     <script src="assets/js/styles.js" type="text/javascript"></script>
+
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -60,13 +62,13 @@
             <div class="col-lg-12">
                 <ul role="navigation" class="dd-nav nav nav-pills nav-justified">
                     <li role="presentation" class="active">
-                        <a href="/">Login</a>
+                        <a href="/DD/">Login</a>
                     </li>
                     <li role="presentation">
-                        <a href="/register">Register</a>
+                        <a href="/DD/register">Register</a>
                     </li>
                     <li role="presentation">
-                        <a href="/account">Account</a>
+                        <a href="/DD/account">Account</a>
                     </li>
                 </ul>
             </div>
@@ -81,7 +83,7 @@
                 </div>
 
                 <!--    Login Form    -->
-                <form id="loginForm" class="form-signin" action="/login" method="POST">
+                <form id="loginForm" class="form-signin" action="/DD/login" method="POST">
                     <h2 class="form-signin-heading">Please sign in</h2>
 
                     <label for="inputUsername" class="sr-only">Username</label>
@@ -93,7 +95,7 @@
                            placeholder="Password" required>
 
                     <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-                    <a id="registerBtn" href="/register" class="btn btn-lg btn-success btn-block">Register</a>
+                    <a id="registerBtn" href="/DD/register" class="btn btn-lg btn-success btn-block">Register</a>
                 </form>
 
 

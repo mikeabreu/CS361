@@ -48,7 +48,7 @@ public class LoginServlet extends HttpServlet {
         if ((boolean) auth[0]) {
             userid = (int) auth[1];
             out.println(
-                    "<html><body><h2 style='text-align:center;'>Successful login! If you aren't redirected shortly click <a href='/account'>here</a></h2></body></html>");
+                    "<html><body><h2 style='text-align:center;'>Successful login! If you aren't redirected shortly click <a href='/DD/account'>here</a></h2></body></html>");
             HashMap<String, String> user = DatabaseConnection.getUser(userid);
             Cookie cUserID = new Cookie("userid", user.get("id"));
             Cookie cUserName = new Cookie("username", user.get("name"));
@@ -65,10 +65,10 @@ public class LoginServlet extends HttpServlet {
             response.addCookie(cUserEmail);
             response.addCookie(cUserAccount);
             response.addCookie(cUserBalance);
-            response.setHeader("Refresh", "3; URL=/account");
+            response.setHeader("Refresh", "3; URL=/DD/account");
         } else {
             out.println(
-                    "<html><body><h2 style='text-align:center;'>Login Attempt Failed! If you aren't redirected shortly click <a href='/'>here</a></h2></body></html>");
+                    "<html><body><h2 style='text-align:center;'>Login Attempt Failed! If you aren't redirected shortly click <a href='/DD/'>here</a></h2></body></html>");
             response.setHeader("Refresh", "3; URL=/");
         }
     }

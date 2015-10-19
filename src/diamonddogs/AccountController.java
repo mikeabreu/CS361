@@ -49,9 +49,8 @@ public class AccountController {
 
     public void check_auth(HttpServletResponse response) throws IOException {
         if (!user.containsKey("id")) {
-//            response.sendRedirect("/");
             authenticated = false;
-            response.setHeader("Refresh", "3; URL=/");
+            response.setHeader("Refresh", "3; URL=/DD/");
         } else {
             authenticated = true;
         }

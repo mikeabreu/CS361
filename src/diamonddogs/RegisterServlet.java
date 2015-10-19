@@ -25,7 +25,6 @@ public class RegisterServlet extends HttpServlet {
         user.put("email", request.getParameter("inputEmail"));
         user.put("name", request.getParameter("inputUsername"));
         user.put("password", request.getParameter("inputPassword"));
-//        user.put("cc", request.getParameter("inputCreditCard"));
 
         // Create fake credit card, account number and balance.
         Random rng = new Random();
@@ -38,21 +37,19 @@ public class RegisterServlet extends HttpServlet {
         user.put("balance", String.valueOf(rng.nextInt(20) * 99));
 
         // Create SQL Query
-//        System.out.println("User Object Before: " + user.toString());
         DatabaseConnection.createUser(user);
 
-//        System.out.println("username: "+user.get("name")+", password: "+user.get("password"));
+        // Check if the user was created or not.
         Object[] auth = DatabaseConnection.authenticate(user.get("name"), user.get("password"));
         if ((boolean) auth[0]) {
-//            System.out.println("Inside auth loop.");
             Cookie success = new Cookie("success", "true");
             success.setMaxAge(30);
             response.addCookie(success);
         }
-        response.sendRedirect("/");
+        response.sendRedirect("/DD/");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.sendRedirect("/");
+        response.sendRedirect("/DD/");
     }
 }

@@ -69,13 +69,13 @@
             <div class="col-lg-12">
                 <ul role="navigation" class="dd-nav nav nav-pills nav-justified">
                     <li role="presentation">
-                        <a href="/">Login</a>
+                        <a href="/DD/">Login</a>
                     </li>
                     <li role="presentation" class="active">
-                        <a href="/register">Register</a>
+                        <a href="/DD/register">Register</a>
                     </li>
                     <li role="presentation">
-                        <a href="/account">Account</a>
+                        <a href="/DD/account">Account</a>
                     </li>
                 </ul>
             </div>
@@ -90,7 +90,7 @@
                 </div>
 
                 <!--    Login Form    -->
-                <form id="registerForm" class="form-signin" action="/create" method="POST">
+                <form id="registerForm" class="form-signin" action="/DD/create" method="POST">
                     <h2 class="form-signin-heading">Fill in the fields below to register</h2>
 
                     <!-- Email -->
@@ -129,7 +129,7 @@
 
                     <!-- Buttons -->
                     <button id="submit" class="btn btn-lg btn-success btn-block" type="submit">Register</button>
-                    <a href="/" class="btn btn-lg btn-primary btn-block ">Back to Sign In</a>
+                    <a href="/DD/" class="btn btn-lg btn-primary btn-block ">Back to Sign In</a>
                 </form>
             </div>
         </div>

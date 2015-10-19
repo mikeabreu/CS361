@@ -1,109 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DD" />
+      <artifact name="DiamondDogs" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d45209-706e-410a-82e4-213c8ae556c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/src/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/src/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.tm_properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.tm_properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/amd-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/amd-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/amd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/amd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/commonjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/commonjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/encoding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/encoding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/src/js.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/src/js.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/malformed_cookie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/malformed_cookie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/polyfill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/polyfill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/register.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/js/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/js/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/travis.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/travis.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/utils.js" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.classpath" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.project" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\DiamondDogs.eml" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.idea\artifacts\DiamondDogs_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/DiamondDogs.xml" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\META-INF\MANIFEST.MF" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/META-INF/MANIFEST.MF" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\WEB-INF\web.xml" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\account.jsp" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/account.jsp" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\css\style.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/css/style.css" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\img\dd.jpg" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/img/dd.jpg" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\img\diamond_dog.jpg" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/img/diamond_dog.jpg" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css.map" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\js\npm.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/js/npm.js" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\jquery-1x\jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/jquery-1x/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\index.jsp" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/index.jsp" />
-      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\register.jsp" afterPath="$PROJECT_DIR$/WebContent/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/DD.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\img\dd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\img\diamond_dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\js\styles.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\jquery-1x\jquery-1.11.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.jshintignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.tm_properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\src\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\src\js.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\amd-config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\amd.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\amd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\commonjs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\encoding.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\malformed_cookie.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\polyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\tests.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\travis.sh" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/AccountController.java" afterPath="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" afterPath="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DiamondDogs.iml" afterPath="$PROJECT_DIR$/DiamondDogs.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" afterPath="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" afterPath="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/account.jsp" afterPath="$PROJECT_DIR$/WebContent/account.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/index.jsp" afterPath="$PROJECT_DIR$/WebContent/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/assets/css/style.css" afterPath="$PROJECT_DIR$/WebContent/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/register.jsp" afterPath="$PROJECT_DIR$/WebContent/register.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DiamondDogs.iws" />
@@ -151,19 +111,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DatabaseConnection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
-                <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
-                <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
-                <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
-                <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
-              </folding>
+            <state vertical-scroll-proportion="-64.58064">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/account.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.129032">
+              <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.171875">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.903226">
+              <caret line="127" column="50" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -172,7 +155,17 @@
         <entry file="file://$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+              <caret line="42" column="96" selection-start-line="42" selection-start-column="96" selection-end-line="42" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -182,58 +175,23 @@
         <entry file="file://$PROJECT_DIR$/src/diamonddogs/AccountController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+              <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
+      <file leaf-file-name="DatabaseConnection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/register.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.193548">
-              <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="account.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebContent/account.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5595376">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.83871">
-              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-              <folding />
+              <caret line="73" column="78" selection-start-line="73" selection-start-column="78" selection-end-line="73" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1445289743136" expanded="true" signature="2430:2568" placeholder="SELECT user_..user..." />
+                <marker date="1445289743136" expanded="true" signature="3196:3248" placeholder="SELECT * FRO..user..." />
+                <marker date="1445289743136" expanded="true" signature="4121:4550" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -261,15 +219,15 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql" />
         <option value="$PROJECT_DIR$/.classpath" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" />
         <option value="dbtable:/93907e55/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/diamonddog..user" />
-        <option value="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" />
         <option value="$PROJECT_DIR$/WebContent/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
-        <option value="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
         <option value="$PROJECT_DIR$/WebContent/assets/js/styles.js" />
         <option value="$PROJECT_DIR$/WebContent/index.jsp" />
         <option value="$PROJECT_DIR$/WebContent/register.jsp" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
         <option value="$PROJECT_DIR$/WebContent/account.jsp" />
       </list>
     </option>
@@ -317,6 +275,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,11 +299,99 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diamonddogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiamondDogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,7 +401,7 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -641,9 +689,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Unknown" factoryName="Unknown">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -772,12 +817,13 @@
       <workItem from="1445118582094" duration="963000" />
       <workItem from="1445205558818" duration="9769000" />
       <workItem from="1445215631078" duration="1526000" />
-      <workItem from="1445218834464" duration="14466000" />
+      <workItem from="1445218834464" duration="15044000" />
+      <workItem from="1445273382456" duration="3031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32239000" />
+    <option name="totallyTimeSpent" value="35848000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -790,7 +836,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -801,10 +847,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17748918" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36567163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36567163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16471216" sideWeight="0.5421133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16471216" sideWeight="0.5421133" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16471216" sideWeight="0.45788667" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16151386" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -876,9 +922,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -912,11 +956,9 @@
           <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
-            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
-            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
+            <marker date="1445289743136" expanded="true" signature="2430:2568" placeholder="SELECT user_..user..." />
+            <marker date="1445289743136" expanded="true" signature="3196:3248" placeholder="SELECT * FRO..user..." />
+            <marker date="1445289743136" expanded="true" signature="4121:4550" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -949,9 +991,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="67" column="61" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -961,11 +1001,9 @@
           <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
-            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
-            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
+            <marker date="1445289743136" expanded="true" signature="2430:2568" placeholder="SELECT user_..user..." />
+            <marker date="1445289743136" expanded="true" signature="3196:3248" placeholder="SELECT * FRO..user..." />
+            <marker date="1445289743136" expanded="true" signature="4121:4550" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1019,9 +1057,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,11 +1067,9 @@
           <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
-            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
-            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
+            <marker date="1445289743136" expanded="true" signature="2430:2568" placeholder="SELECT user_..user..." />
+            <marker date="1445289743136" expanded="true" signature="3196:3248" placeholder="SELECT * FRO..user..." />
+            <marker date="1445289743136" expanded="true" signature="4121:4550" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1127,16 +1161,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/src/js.cookie.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1147,26 +1171,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
+    <entry file="file://$PROJECT_DIR$/WebContent/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
-            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
-            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
-            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.95089287">
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1174,7 +1189,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -1183,10 +1197,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://DATABASE/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>62cbbedb-f1b4-4c5c-82a7-fefa1beeef61</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">62cbbedb-f1b4-4c5c-82a7-fefa1beeef61.table:diamonddog.user</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="115.0" y="92.0" />
+          <SelectedNodes>
+            <node>62cbbedb-f1b4-4c5c-82a7-fefa1beeef61.table:diamonddog.user</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-DiamondDogs">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-DiamondDogs</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-DiamondDogs</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="79.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-64.58064">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.903226">
+          <caret line="127" column="50" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="78" selection-start-line="73" selection-start-column="78" selection-end-line="73" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1445289743136" expanded="true" signature="2430:2568" placeholder="SELECT user_..user..." />
+            <marker date="1445289743136" expanded="true" signature="3196:3248" placeholder="SELECT * FRO..user..." />
+            <marker date="1445289743136" expanded="true" signature="4121:4550" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/diamonddogs/AccountController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1194,39 +1284,23 @@
     <entry file="file://$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.83871">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.193548">
-          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+          <caret line="42" column="96" selection-start-line="42" selection-start-column="96" selection-end-line="42" selection-end-column="96" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/account.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5595376">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="-24.129032">
+          <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.171875">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding />
         </state>
       </provider>

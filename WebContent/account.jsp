@@ -61,11 +61,11 @@
         <div class="row">
             <div class="col-lg-12">
                 <ul role="navigation" class="dd-nav nav nav-pills nav-justified">
-                    <li role="presentation"><a href="/">Login</a></li>
-                    <li role="presentation"><a href="/register">Register</a>
+                    <li role="presentation"><a href="/DD/">Login</a></li>
+                    <li role="presentation"><a href="/DD/register">Register</a>
                     </li>
                     <li role="presentation" class="active"><a
-                            href="/account">Account</a></li>
+                            href="/DD/account">Account</a></li>
                 </ul>
             </div>
         </div>
@@ -133,7 +133,7 @@
 <% } else { %>
 <div class="text-center">
     <h2>Sorry, you're not allowed access to this page.</h2>
-    <a class="btn btn-lg btn-primary" href="/">Return to Homepage</a>
+    <a class="btn btn-lg btn-primary" href="/DD/">Return to Homepage</a>
 </div>
 <% } %>
 </body>

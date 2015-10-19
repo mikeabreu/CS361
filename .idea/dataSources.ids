@@ -11,7 +11,7 @@
       <column name="user_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
       <column name="user_name" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12"/>
       <column name="user_email" sqlType="VARCHAR" precision="150" scale="0" nullable="false" jdbcType="12"/>
-      <column name="user_cc" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="user_cc" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
       <column name="user_pass" sqlType="VARCHAR" precision="30" scale="0" nullable="false" jdbcType="12"/>
       <column name="user_account" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
       <column name="user_balance" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
