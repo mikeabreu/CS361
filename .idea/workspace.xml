@@ -8,62 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d45209-706e-410a-82e4-213c8ae556c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/DD.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\img\dd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\img\diamond_dog.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\js\styles.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\bootstrap-3.3.5-dist\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\jquery-1x\jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.jshintignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.tm_properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\src\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\src\js.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\amd-config.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\amd.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\commonjs.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\encoding.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\encoding.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\malformed_cookie.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\polyfill.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\test\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs\assets\lib\js-cookie-master\travis.sh" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/AccountController.java" afterPath="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" afterPath="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" afterPath="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" afterPath="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/account.jsp" afterPath="$PROJECT_DIR$/WebContent/account.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/index.jsp" afterPath="$PROJECT_DIR$/WebContent/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/register.jsp" afterPath="$PROJECT_DIR$/WebContent/register.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DiamondDogs.iws" />
@@ -131,11 +76,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.171875">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.050632913">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -229,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
         <option value="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
         <option value="$PROJECT_DIR$/WebContent/account.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -818,12 +774,12 @@
       <workItem from="1445205558818" duration="9769000" />
       <workItem from="1445215631078" duration="1526000" />
       <workItem from="1445218834464" duration="15044000" />
-      <workItem from="1445273382456" duration="3031000" />
+      <workItem from="1445273382456" duration="3660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35848000" />
+    <option name="totallyTimeSpent" value="36477000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1299,8 +1255,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.171875">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050632913">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
