@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `diamonddog`
 --
-CREATE DATABASE IF NOT EXISTS `diamonddog` DEFAULT CHARACTER SET utf8_bin COLLATE utf8_bin;
+CREATE DATABASE IF NOT EXISTS `diamonddog` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
 USE `diamonddog`;
 
 -- --------------------------------------------------------
