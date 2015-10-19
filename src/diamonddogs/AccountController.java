@@ -12,9 +12,8 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class AccountController {
     protected static AccountController ac;
-    // private HttpServletRequest request;
-    private HttpServletResponse response;
     private HashMap<String, String> user;
+    private boolean authenticated = false;
 
     /*
      * Private Constructor
@@ -30,8 +29,6 @@ public class AccountController {
     }
 
     public void sync(HttpServletRequest request, HttpServletResponse response) {
-        // this.request = request;
-        this.response = response;
         HashMap<String, String> cookies = new HashMap<>();
         user = new HashMap<>();
 
@@ -41,19 +38,27 @@ public class AccountController {
                 cookies.put(c.getName(), c.getValue());
             }
             if (cookies.containsKey("userid")) {
-                if (cookies.get("userid").equals("") && cookies.get("userid") != null)
+                if (!cookies.get("userid").equals("") && cookies.get("userid") != null) {
                     user = DatabaseConnection.getUser(Integer.parseInt(cookies.get("userid")));
+                }
             } else {
                 user = new HashMap<>();
             }
-
         }
     }
 
-    public void check_auth() throws IOException {
+    public void check_auth(HttpServletResponse response) throws IOException {
         if (!user.containsKey("id")) {
-            response.sendRedirect("/");
+//            response.sendRedirect("/");
+            authenticated = false;
+            response.setHeader("Refresh", "3; URL=/");
+        } else {
+            authenticated = true;
         }
+    }
+
+    public boolean isAuthenticated() {
+        return authenticated;
     }
 
     public String display_username() {
@@ -78,5 +83,11 @@ public class AccountController {
         if (user.containsKey("balance"))
             return user.get("balance");
         return "NO BALANCE";
+    }
+
+    public String display_cc() {
+        if (user.containsKey("cc"))
+            return user.get("cc");
+        return "NO CREDIT CARD";
     }
 }

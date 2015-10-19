@@ -2,6 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5d45209-706e-410a-82e4-213c8ae556c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/src/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/src/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.tm_properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.tm_properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/amd-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/amd-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/amd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/amd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/commonjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/commonjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/encoding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/encoding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/src/js.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/src/js.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/malformed_cookie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/malformed_cookie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/js/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/js/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/travis.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/travis.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/js-cookie-master/test/utils.js" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.settings\org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\DiamondDogs.eml" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\.idea\artifacts\DiamondDogs_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/DiamondDogs.xml" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\META-INF\MANIFEST.MF" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\WEB-INF\web.xml" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\account.jsp" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/account.jsp" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\css\style.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/css/style.css" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\img\dd.jpg" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/img/dd.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\img\diamond_dog.jpg" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/img/diamond_dog.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.css.map" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/js/bootstrap.js" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\bootstrap-3.3.5-dist\js\npm.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/bootstrap-3.3.5-dist/js/npm.js" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\assets\lib\jquery-1x\jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/assets/lib/jquery-1x/jquery-1.11.3.min.js" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\index.jsp" afterPath="$PROJECT_DIR$/classes/artifacts/DiamondDogs/index.jsp" />
+      <change type="MOVED" beforePath="C:\Users\Michael\code\eclipse\DiamondDogs\classes\artifacts\DiamondDogs_war_exploded\register.jsp" afterPath="$PROJECT_DIR$/WebContent/register.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/AccountController.java" afterPath="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" afterPath="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DiamondDogs.iml" afterPath="$PROJECT_DIR$/DiamondDogs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" afterPath="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/account.jsp" afterPath="$PROJECT_DIR$/WebContent/account.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/index.jsp" afterPath="$PROJECT_DIR$/WebContent/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/assets/css/style.css" afterPath="$PROJECT_DIR$/WebContent/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DiamondDogs.iws" />
@@ -19,80 +121,58 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - diamonddog@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="diamonddog" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="user" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="DiamondDogs" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.612903">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DatabaseConnection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+              <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1444803352564" expanded="true" signature="2529:2613" placeholder="SELECT user_..user..." />
-                <marker date="1444803352564" expanded="true" signature="2802:2866" placeholder="SELECT user_..user..." />
-                <marker date="1444803352564" expanded="true" signature="2802:2867" placeholder="SELECT user_..user..." />
-                <marker date="1444803352564" expanded="true" signature="2802:2919" placeholder="SELECT user_..user..." />
-                <marker date="1444803352564" expanded="true" signature="2802:2920" placeholder="SELECT user_..user..." />
-                <marker date="1444803352564" expanded="true" signature="3636:3672" placeholder="SELECT * FRO..user..." />
-                <marker date="1444803352564" expanded="true" signature="3865:3899" placeholder="SELECT * FRO..user..." />
-                <marker date="1444803352564" expanded="true" signature="3865:3900" placeholder="SELECT * FRO..user..." />
-                <marker date="1444803352564" expanded="true" signature="3865:3911" placeholder="SELECT * FRO..user..." />
+                <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
+                <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
+                <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
+                <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
+                <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <file leaf-file-name="RegisterServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.066667">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -102,46 +182,70 @@
         <entry file="file://$PROJECT_DIR$/src/diamonddogs/AccountController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+              <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiamondDogs.eml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DiamondDogs.eml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiamondDogs.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DiamondDogs.iml">
+      <file leaf-file-name="styles.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".classpath" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.classpath">
+      <file leaf-file-name="register.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/register.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46725664">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-14.193548">
+              <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/account.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5595376">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.83871">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,15 +258,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql" />
+        <option value="$PROJECT_DIR$/.classpath" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" />
+        <option value="dbtable:/93907e55/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/diamonddog..user" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/WebContent/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
+        <option value="$PROJECT_DIR$/WebContent/assets/js/styles.js" />
         <option value="$PROJECT_DIR$/WebContent/index.jsp" />
         <option value="$PROJECT_DIR$/WebContent/register.jsp" />
         <option value="$PROJECT_DIR$/WebContent/account.jsp" />
-        <option value="$PROJECT_DIR$/src/diamonddogs/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/src/diamonddogs/AccountController.java" />
-        <option value="$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql" />
-        <option value="$PROJECT_DIR$/.classpath" />
       </list>
     </option>
   </component>
@@ -209,9 +317,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,15 +324,9 @@
               <option name="myItemId" value="DiamondDogs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -237,69 +336,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiamondDogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diamonddogs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,10 +353,10 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
@@ -601,6 +645,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -625,10 +675,10 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Tomcat Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.56" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+    <configuration default="false" name="Tomcat Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.56" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk1.8.0_60/jre">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="DiamondDogs:war exploded">
+        <artifact name="DiamondDogs">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -693,7 +743,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="DiamondDogs:war exploded" />
+          <artifact name="DiamondDogs" />
         </option>
       </method>
     </configuration>
@@ -717,12 +767,17 @@
       <option name="number" value="Default" />
       <updated>1444799796771</updated>
       <workItem from="1444799803532" duration="33000" />
-      <workItem from="1444799865535" duration="4768000" />
+      <workItem from="1444799865535" duration="5258000" />
+      <workItem from="1444874359706" duration="224000" />
+      <workItem from="1445118582094" duration="963000" />
+      <workItem from="1445205558818" duration="9769000" />
+      <workItem from="1445215631078" duration="1526000" />
+      <workItem from="1445218834464" duration="14466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4801000" />
+    <option name="totallyTimeSpent" value="32239000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -735,36 +790,65 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.267316" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17748918" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36567163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16471216" sideWeight="0.5421133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16471216" sideWeight="0.45788667" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16151386" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42099568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17748918" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout>
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16151386" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42099568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.267316" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4069264" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16471216" sideWeight="0.5421133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16471216" sideWeight="0.45788667" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -778,7 +862,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -786,63 +872,51 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.83871">
-          <caret line="120" column="7" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/account.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.451613">
-          <caret line="63" column="61" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DiamondDogs.eml">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DiamondDogs.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.612903">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.066667">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
+            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
+            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -850,8 +924,34 @@
     <entry file="file://$PROJECT_DIR$/src/diamonddogs/AccountController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/account.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="61" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -861,24 +961,12 @@
           <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1444803352564" expanded="true" signature="2529:2613" placeholder="SELECT user_..user..." />
-            <marker date="1444803352564" expanded="true" signature="2802:2866" placeholder="SELECT user_..user..." />
-            <marker date="1444803352564" expanded="true" signature="2802:2867" placeholder="SELECT user_..user..." />
-            <marker date="1444803352564" expanded="true" signature="2802:2919" placeholder="SELECT user_..user..." />
-            <marker date="1444803352564" expanded="true" signature="2802:2920" placeholder="SELECT user_..user..." />
-            <marker date="1444803352564" expanded="true" signature="3636:3672" placeholder="SELECT * FRO..user..." />
-            <marker date="1444803352564" expanded="true" signature="3865:3899" placeholder="SELECT * FRO..user..." />
-            <marker date="1444803352564" expanded="true" signature="3865:3900" placeholder="SELECT * FRO..user..." />
-            <marker date="1444803352564" expanded="true" signature="3865:3911" placeholder="SELECT * FRO..user..." />
+            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
+            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
+            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,10 +978,255 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
+    <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46725664">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiamondDogs.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
+            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
+            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiamondDogs.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiamondDogs.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.896552">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.827586">
+          <caret line="452" column="136" selection-start-line="452" selection-start-column="133" selection-end-line="452" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/assets/lib/js-cookie-master/src/js.cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1445229304637" expanded="true" signature="2802:2940" placeholder="SELECT user_..user..." />
+            <marker date="1445229304637" expanded="true" signature="3917:3969" placeholder="SELECT * FRO..user..." />
+            <marker date="1445229304637" expanded="true" signature="4842:4975" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5271" placeholder="INSERT INTO ..." />
+            <marker date="1445229304637" expanded="true" signature="4842:5272" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/93907e55/62cbbedb-f1b4-4c5c-82a7-fefa1beeef61/diamonddog..user">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diamonddogs/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/assets/js/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.83871">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.193548">
+          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/account.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5595376">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -904,7 +1237,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>DiamondDogs:war exploded</last-edited>
+          <last-edited>DiamondDogs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -917,7 +1250,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Web (DiamondDogs)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

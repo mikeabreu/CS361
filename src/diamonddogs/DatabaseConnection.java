@@ -83,8 +83,8 @@ public class DatabaseConnection {
 //            stmt.setString(1, username);
 //            stmt.setString(2, password);
             Statement stmt = conn.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT user_id, user_name, user_pass FROM user WHERE user_name = "
-                    + username + " AND user_pass = " + password + "");
+            ResultSet rs = stmt.executeQuery("SELECT user_id, user_name, user_pass FROM user WHERE user_name = '"
+                    + username + "' AND user_pass = '" + password + "'");
 
             if (rs.first()) {
                 result[0] = rs.first();
@@ -92,6 +92,7 @@ public class DatabaseConnection {
             }
         } catch (SQLException e) {
             System.err.println("There was an error while authenticating the user");
+            System.out.println(e.getMessage());
         }
         return result;
     }
@@ -107,13 +108,14 @@ public class DatabaseConnection {
 //            stmt.setInt(1, user_id);
 //            ResultSet rs = stmt.executeQuery();
             Statement stmt = conn.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT * FROM user WHERE user_id = " + user_id);
+            ResultSet rs = stmt.executeQuery("SELECT * FROM user WHERE user_id = '" + user_id + "'");
             while (rs.next()) {
                 user.put("id", String.valueOf(rs.getInt("user_id")));
                 user.put("name", rs.getString("user_name"));
                 user.put("email", rs.getString("user_email"));
                 user.put("account", String.valueOf(rs.getInt("user_account")));
                 user.put("balance", String.valueOf(rs.getInt("user_balance")));
+                user.put("cc", String.valueOf(rs.getInt("user_cc")));
             }
         } catch (SQLException e) {
             System.err.println("There was an error while retrieving the user information.");
@@ -124,8 +126,23 @@ public class DatabaseConnection {
     /*
         Method used to create a user in the database.
      */
-    protected static boolean createUser(HashMap<String, String> user) {
-//        TODO
-        return false;
+    protected static void createUser(HashMap<String, String> user) {
+        try {
+            Statement stmt = conn.createStatement();
+            String query = "INSERT INTO diamonddog.user (user_name, user_email, user_cc, user_pass, user_account, user_balance) "
+                    + "VALUES ('"
+                    + user.get("name") + "', '"
+                    + user.get("email") + "', '"
+                    + user.get("cc") + "', '"
+                    + user.get("password") + "', '"
+                    + user.get("account") + "', '"
+                    + user.get("balance") + "');";
+//            System.out.println("QUERY: " + query);
+            stmt.executeUpdate(query);
+            return;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return;
     }
 }
