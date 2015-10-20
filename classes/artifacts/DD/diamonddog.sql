@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS `user` (
   `user_pass` varchar(30) NOT NULL,
   `user_account` int(9) NOT NULL,
   `user_balance` int(100) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=33 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
 --
 -- Indexes for table `user`

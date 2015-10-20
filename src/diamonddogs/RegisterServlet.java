@@ -9,9 +9,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.*;
 
-/**
- * Created by Michael on 10/18/2015.
- */
 public class RegisterServlet extends HttpServlet {
 
     public RegisterServlet() {
