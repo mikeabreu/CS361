@@ -69,7 +69,7 @@ public class LoginServlet extends HttpServlet {
         } else {
             out.println(
                     "<html><body><h2 style='text-align:center;'>Login Attempt Failed! If you aren't redirected shortly click <a href='/DD/'>here</a></h2></body></html>");
-            response.setHeader("Refresh", "3; URL=/");
+            response.setHeader("Refresh", "3; URL=/DD/");
         }
     }
 

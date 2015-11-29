@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="DD">
-    <output-path>$PROJECT_DIR$/classes/artifacts/DD</output-path>
-    <root id="archive" name="DD.war">
-      <element id="artifact" artifact-name="DiamondDogs" />
-    </root>
-  </artifact>
-</component>
