@@ -171,7 +171,7 @@ public class DatabaseConnection {
         return;
     }
 
-    private static String validate(String bad_text) {
+    protected static String validate(String bad_text) {
         // String validation code here
         String safe_text = bad_text;
 
@@ -199,7 +199,7 @@ public class DatabaseConnection {
         return safe_text;
     }
 
-    private static int validate(int num) {
+    protected static int validate(int num) {
         if (num <= 0) {
             return -1;
         } else if (num >= 2000000) {

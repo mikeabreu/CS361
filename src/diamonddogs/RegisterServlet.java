@@ -19,7 +19,12 @@ public class RegisterServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         // Get Variables from POST
         HashMap<String, String> user = new HashMap<>();
-        user.put("email", request.getParameter("inputEmail"));
+
+//        Vulnerable Code
+//        user.put("email", request.getParameter("inputEmail"));
+//        Secure Code
+        user.put("email", DatabaseConnection.validate(request.getParameter("inputEmail")));
+
         user.put("name", request.getParameter("inputUsername"));
         user.put("password", request.getParameter("inputPassword"));
 
