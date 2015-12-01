@@ -171,9 +171,32 @@ public class DatabaseConnection {
         return;
     }
 
-    private static String validate(String str) {
+    private static String validate(String bad_text) {
         // String validation code here
-        return "";
+        String safe_text = bad_text;
+
+        // Remove: -
+        safe_text = safe_text.replace('-', ' ');
+        // Remove: '
+        safe_text = safe_text.replace('\'', ' ');
+        // Remove: "
+        safe_text = safe_text.replace('"', ' ');
+        // Remove: )
+        safe_text = safe_text.replace(')', ' ');
+        // Remove: (
+        safe_text = safe_text.replace('(', ' ');
+        // Remove: }
+        safe_text = safe_text.replace(')', ' ');
+        // Remove: {
+        safe_text = safe_text.replace('(', ' ');
+        // Remove: ~
+        safe_text = safe_text.replace('~', ' ');
+        // Remove: {
+        safe_text = safe_text.replace('{', ' ');
+        // Remove: }
+        safe_text = safe_text.replace('}', ' ');
+
+        return safe_text;
     }
 
     private static int validate(int num) {
