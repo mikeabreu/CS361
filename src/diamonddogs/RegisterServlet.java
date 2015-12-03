@@ -25,7 +25,7 @@ public class RegisterServlet extends HttpServlet {
 //        Secure Code
         user.put("email", DatabaseConnection.validate(request.getParameter("inputEmail")));
 
-        user.put("name", request.getParameter("inputUsername"));
+        user.put("name", DatabaseConnection.validate(request.getParameter("inputUsername")));
         user.put("password", request.getParameter("inputPassword"));
 
         // Create fake credit card, account number and balance.

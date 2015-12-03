@@ -84,8 +84,8 @@ public class DatabaseConnection {
             /* More Secure Code */
             PreparedStatement stmt = conn.prepareStatement("SELECT user_id, user_name, user_pass FROM user WHERE " +
                     "user_name=? AND user_pass =?");
-            stmt.setString(1, validate(username));
-            stmt.setString(2, validate(password));
+            stmt.setString(1, username);
+            stmt.setString(2, password);
             ResultSet rs = stmt.executeQuery();
             /* End Secure Code Addition */
 
@@ -111,7 +111,7 @@ public class DatabaseConnection {
 
             /* More Secure Code */
             PreparedStatement stmt = conn.prepareStatement("SELECT * FROM user WHERE user_id = ?");
-            stmt.setInt(1, validate(user_id));
+            stmt.setInt(1, user_id);
             ResultSet rs = stmt.executeQuery();
             /* End Secure Code Addition */
 
@@ -155,18 +155,18 @@ public class DatabaseConnection {
 
             /* More Secure Code */
             PreparedStatement stmt = conn.prepareStatement("INSERT INTO diamonddog.user (user_name, user_email, user_cc, user_pass, user_account, user_balance) VALUES (?, ?, ?, ?, ?, ?)");
-            stmt.setString(1, validate(user.get("name"))); // user_name
-            stmt.setString(2, validate(user.get("email"))); // user_email
-            stmt.setString(3, validate(user.get("cc"))); // user_cc
-            stmt.setString(4, validate(user.get("pass"))); // user_pass
-            stmt.setString(5, validate(user.get("account"))); // user_account
-            stmt.setString(6, validate(user.get("balance"))); // user_balance
+            stmt.setString(1, user.get("name")); // user_name
+            stmt.setString(2, user.get("email")); // user_email
+            stmt.setString(3, user.get("cc")); // user_cc
+            stmt.setString(4, user.get("password")); // user_password
+            stmt.setString(5, user.get("account")); // user_account
+            stmt.setString(6, user.get("balance")); // user_balance
             stmt.executeUpdate();
-            conn.commit();
             /* End Secure Code Addition */
             return;
         } catch (SQLException e) {
-            System.err.println("Unable to create the new user.");
+            System.err.println("Error: "+ e.getMessage());
+            System.err.println("Stack Trace: "+ e.getStackTrace());
         }
         return;
     }
@@ -191,6 +191,8 @@ public class DatabaseConnection {
         safe_text = safe_text.replace('(', ' ');
         // Remove: ~
         safe_text = safe_text.replace('~', ' ');
+        // Remove: `
+        safe_text = safe_text.replace('`', ' ');
         // Remove: {
         safe_text = safe_text.replace('{', ' ');
         // Remove: }
